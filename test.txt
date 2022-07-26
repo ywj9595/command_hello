@@ -1,5 +1,5 @@
-//For commit
-//Gibhub
+//For commit GibHub tutorial
+//Gibhub modification
 print(hello world);
 print(Tell your world);
 print(Tell his world);
